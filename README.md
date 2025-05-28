@@ -4,6 +4,24 @@
 
 ## Skills
 
+### Technical Skills  
+- **Python (Intermediate):** Applied in data visualization projects and hackathons; completed SoloLearn courses focusing on coding and data manipulation  
+- **C, C++, C#:** Learned through introductory programming courses; used in academic assignments and practice challenges  
+- **JavaScript, HTML, CSS:** Built foundational web development skills via SoloLearn; created small projects to practice front-end concepts  
+- **SQL:** Gained experience writing queries and managing databases through SoloLearn challenges  
+- **Linux:** Basic command-line proficiency and system navigation from Linux Unhatched course via Network Academy  
+- **Cybersecurity & IoT:** Introductory knowledge acquired through online courses focusing on security fundamentals and Internet of Things concepts  
+- **Data Visualization:** Learned techniques to visualize data clearly and effectively in SoloLearn’s “Visualize Your Data” course  
+
+### Soft Skills  
+- **Leadership:** Served as Head Assistant of Electronics Committee for INQBIZ CLUB; participated in leadership camps enhancing team management and organizational skills  
+- **Communication & Public Speaking:** Earned certificates through participation in public speaking competitions; awarded for best presentations in essay contests  
+- **Teamwork & Collaboration:** Active member of Student Representative Committee; participated in team-based leadership and development camps  
+- **Problem-Solving:** Demonstrated in hackathon competitions and through solving coding challenges across multiple platforms  
+- **Self-Directed Learning:** Consistently engaged in online courses and certifications to broaden technical and professional skills independently  
+
+
+
 ## Certifications
 
 ### Participated
