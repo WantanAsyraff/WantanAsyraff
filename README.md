@@ -5,11 +5,12 @@
 ## Skills
 
 ## Certifications
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Profile-green)](https://www.sololearn.com/en/profile/30049508)
-[![Cisco]()]
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)
+[![Cisco](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://www.credly.com/users/wan-asyraff/)
+
 ### Self Learning Journey
-2023 - Introductory in C, C++, C#, CSS, HTML, Java, Javascript, Python, SQL
-2024
+2023 - Introductory in C, C++, C#, CSS, HTML, Java, Javascript, Python, SQL (Sololearn)
+2024 - Introduction in IoT, Cybersecurity, Linux Unhatched (Network Academy)
 2025
 
 ## Projects
@@ -17,21 +18,5 @@
 ## Contact
 
 # 📜 SoloLearn Certification List
-
-Below are the SoloLearn certifications I have earned, covering foundational programming languages, web technologies, and general tech literacy.
-
-| No. | Certificate Title                     | Platform   | Type         |
-|-----|----------------------------------------|------------|--------------|
-| 1   | Introduction to C                      | SoloLearn  | Programming  |
-| 2   | Introduction to C++                    | SoloLearn  | Programming  |
-| 3   | Introduction to C#                     | SoloLearn  | Programming  |
-| 4   | Introduction to CSS                    | SoloLearn  | Web Dev      |
-| 5   | Introduction to HTML                   | SoloLearn  | Web Dev      |
-| 6   | Introduction to Java                   | SoloLearn  | Programming  |
-| 7   | Introduction to JavaScript             | SoloLearn  | Web Dev      |
-| 8   | Introduction to Python                 | SoloLearn  | Programming  |
-| 9   | Python Intermediate                    | SoloLearn  | Programming  |
-| 10  | Introduction to SQL                    | SoloLearn  | Databases    |
-| 11  | Tech for Everyone                      | SoloLearn  | General Tech |
 
 🔗 [View My SoloLearn Profile](https://www.sololearn.com/en/profile/30049508)
