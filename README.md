@@ -12,9 +12,9 @@
 
 
 ### Self Learning Journey
-2023 - Introductory in C, C++, C#, CSS, HTML, Java, Javascript, Python, SQL (Sololearn)\n
-2024 - Introduction in IoT, Cybersecurity, Linux Unhatched (Network Academy)\n
-2025 - Social Media Marketing with AI, Visualise Your Data\n
+2023 - Introductory in C, C++, C#, CSS, HTML, Java, Javascript, Python, SQL (Sololearn)  
+2024 - Introduction in IoT, Cybersecurity, Linux Unhatched (Network Academy)  
+2025 - Social Media Marketing with AI, Visualise Your Data  (Sololearn)
 
 ## Projects
 
