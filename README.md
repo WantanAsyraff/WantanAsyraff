@@ -106,7 +106,7 @@ I live at the intersection of code and creativity. You’ll find me scribbling m
 
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)  
 [![Cisco](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://www.credly.com/users/wan-asyraff/)  
-[![Other_Certs](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://drive.google.com/drive/folders/1g6N4qa2Yu3sTr70T9niWT5OFMUqkeZh5?usp=sharing)
+[![Other_Certs](https://img.shields.io/badge/Other_Certs-View_Accreditation-blue)](https://drive.google.com/drive/folders/1g6N4qa2Yu3sTr70T9niWT5OFMUqkeZh5?usp=sharing)
 
  
 
