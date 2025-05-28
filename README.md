@@ -10,11 +10,13 @@
 [![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ## About
 
-I am a dedicated student at Politeknik Mukah passionate about programming, data science, and technology innovation. Through hands-on projects, hackathons, and competitions, I have honed my skills in languages like Python, C++, and JavaScript, and gained foundational knowledge in cybersecurity and IoT.  
+Hi there! I'm Wantan, a 19-year-old technologist-in-the-making from Malaysia, currently deep in the fourth semester of my Diploma in IT (Software Development track). I'm the kind of person who treats curiosity like a lifestyle—whether I'm tweaking a Linux distro until it's perfectly riced, exploring how embedded systems work, or imagining a robotic catgirl companion with GPS and anime-level charm. Yes. Seriously. 😼🤖
 
-Beyond technical skills, I actively develop leadership and communication abilities by participating in student committees, leadership camps, and public speaking events. My commitment to continuous learning drives me to explore new areas such as AI-powered social media marketing and data visualization.  
+I’m passionate about all things tech—from low-level OS fundamentals to high-level software design. If it blinks, beeps, or compiles, I probably want to break it, fix it, mod it, or make it prettier. I’m also obsessed with FOSS, cybersecurity, electronics, and building out my dream homelab (coming soon to a server rack near you).
 
-I am eager to apply my skills to real-world problems and collaborate on impactful projects. Explore my portfolio to see my journey and growth in technology!  
+I live at the intersection of code and creativity. You’ll find me scribbling down magical systems for RPG worlds, working on original characters with unique casting methods, or designing the bones of an educational RPG game that fuses quizzes with a stylish Persona-style roaming system. I love creating things that are both cool and clever—tools that serve a purpose but also have soul.
+
+I may be young, but I’m building something big—step by step, keystroke by keystroke. The technologist I aim to become isn’t just one who uses tech, but one who shapes it. 
 
 
 ## Experience  
