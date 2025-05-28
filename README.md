@@ -1,12 +1,11 @@
 # Wan Asyraff's Portfolio Page!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&duration=2000&pause=2000&color=52B6F7&background=FFFFFF00&width=435&lines=Passionate+Coder+%26+Lifelong+Learner;Welcome+To+My+Profile!)](https://git.io/typing-svg) 
-
 ## 📌 Overview  
 ![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical)
 
-## 💬 Common Languages Used  
-[![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 💬 Common Languages Used  
+[![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=donut-vertical&theme=radical&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -107,7 +106,6 @@ I live at the intersection of code and creativity. You’ll find me scribbling m
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)  
 [![Cisco](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://www.credly.com/users/wan-asyraff/)  
 [![Other_Certs](https://img.shields.io/badge/Other_Certs-View_Accreditation-blue)](https://drive.google.com/drive/folders/1g6N4qa2Yu3sTr70T9niWT5OFMUqkeZh5?usp=sharing)
-
  
 
 ---
