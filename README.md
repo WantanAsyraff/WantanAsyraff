@@ -29,4 +29,4 @@
 ## Projects
 
 ## Contact
-[!Gmail](https://img.shields.io/badge/Gmail-wantanasyraff@gmail..com-blue)
+![Gmail](https://img.shields.io/badge/Gmail-wantanasyraff@gmail..com-blue)
