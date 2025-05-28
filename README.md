@@ -1,4 +1,4 @@
-# Hello! I’m Wan Asyraff — Passionate Coder & Lifelong Learner 💡 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&duration=2000&pause=2000&color=52B6F7&background=FFFFFF00&width=435&lines=Passionate+Coder+%26+Lifelong+Learner;Welcome+To+My+Profile!)](https://git.io/typing-svg) 
 
 ## Overview
 ![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical)
