@@ -9,7 +9,6 @@ Beyond technical skills, I actively develop leadership and communication abiliti
 I am eager to apply my skills to real-world problems and collaborate on impactful projects. Explore my portfolio to see my journey and growth in technology!  
 
 
-
 ## Experience  
 
 ### Head Assistant, Electronics Committee  
@@ -41,7 +40,9 @@ I am eager to apply my skills to real-world problems and collaborate on impactfu
 
 ## Skills
 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=20 height=20/>
 ### Technical Skills  
+- **Languages:** Fluent in English, Malay and native in Sarawakian Malay
 - **Python (Intermediate):** Applied in data visualization projects and hackathons; completed SoloLearn courses focusing on coding and data manipulation  
 - **C, C++, C#:** Learned through introductory programming courses; used in academic assignments and practice challenges  
 - **JavaScript, HTML, CSS:** Built foundational web development skills via SoloLearn; created small projects to practice front-end concepts  
@@ -58,7 +59,6 @@ I am eager to apply my skills to real-world problems and collaborate on impactfu
 - **Self-Directed Learning:** Consistently engaged in online courses and certifications to broaden technical and professional skills independently  
 
 
-
 ## Certifications
 
 ### Participated
@@ -73,17 +73,18 @@ I am eager to apply my skills to real-world problems and collaborate on impactfu
 - Certificate of Appreciation – Certification Committee & Survey Team for the Math Mastery: Journey to Success Program  
 - Certificate of Participation – Data Hackathon POLYCC 2024  
 - Certificate of Participation – Online SIMUROSOT FIRA MALAYSIA CUP 2024 Workshop  
-- Completion Certificate – Boost English & Employment Skills Bootcamp  
+- Completion Certificate – Boost English & Employment Skills Bootcamp, Miri  
 - Participant – Data Hackathon Competition in Conjunction with Melaka Intelligence Centre 2024  
 - Certificate of Participation – Public Speaking Competition 2024, General Studies Department, Politeknik Mukah  
 
 **(2025)**  
 - Participant, Leadership and Teamwork Camp, Student Representative Committee, Politeknik Mukah  
+- Participant, Basics of 3D Design and Printing, Sibu Digital Innovation Hub
 
 **(2023–2025)**  
 - Excellent Student Award and Head of Department Excellence Award, Politeknik Mukah Semester 1–4  
 
-### 📜 Self Learning Journey  
+### Self Learning Journey  
 2023 – Introductory courses in C, C++, C#, CSS, HTML, Java, JavaScript, Python (Intermediate), SQL (SoloLearn)  
 2024 – Introduction to IoT, Cybersecurity, Linux Unhatched (Network Academy)  
 2025 – Social Media Marketing with AI, Visualize Your Data (SoloLearn)  
@@ -98,6 +99,12 @@ I am eager to apply my skills to real-world problems and collaborate on impactfu
 - Projek Bapak Kut  
 - Game Jam  
 - Popular Techstack App  
+
+## Currently Learning
+- Flutter, Laravel
+- Wishing to commit to learning other languages such as Chinese and Bahasa Iban
+- More into robotics
+- Basic electronics
 
 ## Contact
 
