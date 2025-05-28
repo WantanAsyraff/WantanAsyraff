@@ -1,6 +1,43 @@
+# Hello! I’m Wan Asyraff — Passionate Coder & Lifelong Learner 💡
+
 ## About
 
-## Experience
+I am a dedicated student at Politeknik Mukah passionate about programming, data science, and technology innovation. Through hands-on projects, hackathons, and competitions, I have honed my skills in languages like Python, C++, and JavaScript, and gained foundational knowledge in cybersecurity and IoT.  
+
+Beyond technical skills, I actively develop leadership and communication abilities by participating in student committees, leadership camps, and public speaking events. My commitment to continuous learning drives me to explore new areas such as AI-powered social media marketing and data visualization.  
+
+I am eager to apply my skills to real-world problems and collaborate on impactful projects. Explore my portfolio to see my journey and growth in technology!  
+
+
+
+## Experience  
+
+### Head Assistant, Electronics Committee  
+**INQBIZ CLUB, Politeknik Mukah — 2024**  
+- Supported planning and execution of electronics club activities and events  
+- Coordinated team members for smooth session operations  
+- Assisted with technical troubleshooting and equipment management  
+
+### Participant, Leadership and Teamwork Camp  
+**Student Representative Committee, Politeknik Mukah — 2025**  
+- Developed leadership, collaboration, and problem-solving skills  
+- Worked with peers to organize student initiatives and promote welfare  
+
+### Essay Competition Award Winner & Participant  
+**INOFAST 2023**  
+- Awarded Best Presentation and 2nd Best Media Presentation in essay competition  
+- Demonstrated strong research, writing, and communication abilities  
+
+### Hackathon Competitor  
+**Data Hackathon POLYCC 2024 & Melaka Intelligence Centre 2024**  
+- Collaborated on real-time data-focused problem-solving challenges  
+- Applied programming and teamwork skills in competitive environment  
+
+### Public Speaking Competitor  
+**General Studies Department, Politeknik Mukah — 2024**  
+- Participated in public speaking competitions to improve communication and confidence  
+
+
 
 ## Skills
 
