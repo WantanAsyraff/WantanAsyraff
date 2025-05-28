@@ -1,132 +1,136 @@
-
 # Wan Asyraff's Portfolio Page!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&duration=2000&pause=2000&color=52B6F7&background=FFFFFF00&width=435&lines=Passionate+Coder+%26+Lifelong+Learner;Welcome+To+My+Profile!)](https://git.io/typing-svg) 
 
-## Overview
+## 📌 Overview  
 ![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical)
 
-## Common Languages Used
+## 💬 Common Languages Used  
 [![Languages Most Frequently Used](https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-## About
 
-Hi there! I'm Wantan, a 19-year-old technologist-in-the-making from Malaysia, currently deep in the fourth semester of my Diploma in IT (Software Development track). I'm the kind of person who treats curiosity like a lifestyle—whether I'm tweaking a Linux distro until it's perfectly riced, exploring how embedded systems work, or imagining a robotic catgirl companion with GPS and anime-level charm. Yes. Seriously. 😼🤖
+---
 
-I’m passionate about all things tech—from low-level OS fundamentals to high-level software design. If it blinks, beeps, or compiles, I probably want to break it, fix it, mod it, or make it prettier. I’m also obsessed with FOSS, cybersecurity, electronics, and building out my dream homelab (coming soon to a server rack near you).
+## 🌟 About Me  
 
-I live at the intersection of code and creativity. You’ll find me scribbling down magical systems for RPG worlds, working on original characters with unique casting methods, or designing the bones of an educational RPG game that fuses quizzes with a stylish Persona-style roaming system. I love creating things that are both cool and clever—tools that serve a purpose but also have soul.
+Hi there! I'm **Wantan**, a 19-year-old technologist-in-the-making from Malaysia, currently deep in the fourth semester of my Diploma in IT (Software Development track). I'm the kind of person who treats curiosity like a lifestyle—whether I'm tweaking a Linux distro until it's perfectly riced, exploring how embedded systems work, or imagining a robotic catgirl companion with GPS and anime-level charm. Yes. Seriously. 😼🤖
 
-I may be young, but I’m building something big—step by step, keystroke by keystroke. The technologist I aim to become isn’t just one who uses tech, but one who shapes it. 
+I’m passionate about all things tech—from low-level OS fundamentals to high-level software design. If it blinks, beeps, or compiles, I probably want to break it, fix it, mod it, or make it prettier. I’m also obsessed with **FOSS, cybersecurity, electronics**, and currently planning to build out my **dream homelab** (coming soon to a server rack near you!).
 
+I live at the intersection of code and creativity. You’ll find me scribbling magical systems for RPG worlds, designing original characters with quirky casting methods, or cooking up an educational RPG game that fuses quizzes with a stylish **Persona-inspired roaming system**. I love building things that are both cool and clever—tools that serve a purpose and sparkle with soul.
 
-## Experience  
+> “Two there are who are never satisfied -- the lover of the world and the lover of knowledge.” ― Rumi Jalalud-Din, 
 
-### Head Assistant, Electronics Committee  
+---
+
+## 💼 Experience  
+
+### 🧠 Head Assistant, Electronics Committee  
 **INQBIZ CLUB, Politeknik Mukah — 2024**  
 - Supported planning and execution of electronics club activities and events  
 - Coordinated team members for smooth session operations  
 - Assisted with technical troubleshooting and equipment management  
 
-### Participant, Leadership and Teamwork Camp  
+### 🫱🏻‍🫲🏼 Leadership & Teamwork Camp Participant  
 **Student Representative Committee, Politeknik Mukah — 2025**  
 - Developed leadership, collaboration, and problem-solving skills  
-- Worked with peers to organize student initiatives and promote welfare  
+- Organized student initiatives to support peer success and engagement  
 
-### Essay Competition Award Winner & Participant  
+### 📝 Essay Competition Award Winner  
 **INOFAST 2023**  
-- Awarded Best Presentation and 2nd Best Media Presentation in essay competition  
-- Demonstrated strong research, writing, and communication abilities  
+- 🥇 Best Presentation, 🥈 2nd Best Media Presentation  
+- Demonstrated strong research, writing, and communication skills  
 
-### Hackathon Competitor  
+### 💻 Hackathon Competitor  
 **Data Hackathon POLYCC 2024 & Melaka Intelligence Centre 2024**  
-- Collaborated on real-time data-focused problem-solving challenges  
-- Applied programming and teamwork skills in competitive environment  
+- Collaborated in real-time data problem-solving  
+- Applied programming and team skills under pressure  
 
-### Public Speaking Competitor  
+### 🎙 Public Speaking Competitor  
 **General Studies Department, Politeknik Mukah — 2024**  
-- Participated in public speaking competitions to improve communication and confidence  
+- Gained experience in persuasive speaking and audience engagement  
 
+---
 
-
-## Skills
+## 🧠 Skills  
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
 </p>
 
-### Technical Skills  
-- **Languages:** Fluent in English, Malay and native in Sarawakian Malay
-- **Python (Intermediate):** Applied in data visualization projects and hackathons; completed SoloLearn courses focusing on coding and data manipulation  
-- **C, C++, C#:** Learned through introductory programming courses; used in academic assignments and practice challenges  
-- **JavaScript, HTML, CSS:** Built foundational web development skills via SoloLearn; created small projects to practice front-end concepts  
-- **SQL:** Gained experience writing queries and managing databases through SoloLearn challenges  
-- **Linux:** Basic command-line proficiency and system navigation from Linux Unhatched course via Network Academy  
-- **Cybersecurity & IoT:** Introductory knowledge acquired through online courses focusing on security fundamentals and Internet of Things concepts  
-- **Data Visualization:** Learned techniques to visualize data clearly and effectively in SoloLearn’s “Visualize Your Data” course  
+### 💡 Technical  
+- **Languages:** Fluent in English & Malay; native in Sarawakian Malay  
+- **Python (Intermediate):** Data viz & scripting (SoloLearn + Hackathons)  
+- **C, C++, C#:** Applied in academic & personal projects  
+- **Web Dev:** JavaScript, HTML, CSS via SoloLearn + personal sites  
+- **SQL:** Basic data handling & query writing  
+- **Linux:** Comfortable with terminal, file system & bash basics  
+- **Cybersecurity & IoT:** Familiar with foundational principles & protocols  
+- **Data Viz:** Visualize Your Data course (SoloLearn)
 
-### Soft Skills  
-- **Leadership:** Served as Head Assistant of Electronics Committee for INQBIZ CLUB; participated in leadership camps enhancing team management and organizational skills  
-- **Communication & Public Speaking:** Earned certificates through participation in public speaking competitions; awarded for best presentations in essay contests  
-- **Teamwork & Collaboration:** Active member of Student Representative Committee; participated in team-based leadership and development camps  
-- **Problem-Solving:** Demonstrated in hackathon competitions and through solving coding challenges across multiple platforms  
-- **Self-Directed Learning:** Consistently engaged in online courses and certifications to broaden technical and professional skills independently  
+### 🧸 Soft  
+- **Leadership:** Head Assistant for INQBIZ CLUB; team coordinator  
+- **Public Speaking:** Certificates + performance awards  
+- **Teamwork:** Active SRC member + hackathon teammate  
+- **Problem Solving:** Hands-on coding + real-world challenges  
+- **Self-Learning:** Consistent course-taker & resource digester  
 
+---
 
-## Certifications
+## 📜 Certifications  
 
-### Participated
+### 📌 Highlights  
+- 🥇 Best Presentation, INOFAST 2023  
+- 🥈 2nd Best Media Presentation, INOFAST 2023  
+- 🎖 Excellent Student Awards (Sem 1–4)  
 
-**(2023)**  
-- Best Presentation for Essay Competition Category in the International Office Administration Student Call of Paper (INOFAST 2023)  
-- 2nd Best Media Presentation for Essay Competition Category in the International Office Administration Student Call of Paper (INOFAST 2023)  
-- Participant of Essay Competition Category in the International Office Administration Student Call of Paper (INOFAST 2023)  
+### 🧪 Events & Workshops  
+- Data Hackathons 2024  
+- SIMUROSOT FIRA Workshop 2024  
+- Boost English & Employability Bootcamp  
+- Basics of 3D Design & Printing  
+- Public Speaking Competitions (2024)  
+- Math Mastery Program (Certification & Survey Team)  
 
-**(2024)**  
-- Head Assistant, Electronics Committee of INQBIZ CLUB Session 2: 2023/2024, Politeknik Mukah  
-- Certificate of Appreciation – Certification Committee & Survey Team for the Math Mastery: Journey to Success Program  
-- Certificate of Participation – Data Hackathon POLYCC 2024  
-- Certificate of Participation – Online SIMUROSOT FIRA MALAYSIA CUP 2024 Workshop  
-- Completion Certificate – Boost English & Employment Skills Bootcamp, Miri  
-- Participant – Data Hackathon Competition in Conjunction with Melaka Intelligence Centre 2024  
-- Certificate of Participation – Public Speaking Competition 2024, General Studies Department, Politeknik Mukah  
-
-**(2025)**  
-- Participant, Leadership and Teamwork Camp, Student Representative Committee, Politeknik Mukah  
-- Participant, Basics of 3D Design and Printing, Sibu Digital Innovation Hub
-
-**(2023–2025)**  
-- Excellent Student Award and Head of Department Excellence Award, Politeknik Mukah Semester 1–4  
-
-### Self Learning Journey  
-2023 – Introductory courses in C, C++, C#, CSS, HTML, Java, JavaScript, Python (Intermediate), SQL (SoloLearn)  
-2024 – Introduction to IoT, Cybersecurity, Linux Unhatched (Network Academy)  
-2025 – Social Media Marketing with AI, Visualize Your Data (SoloLearn)  
+### 👩🏻‍💻 Self-Study Trail  
+- **(2023):** Intro to C, C++, Java, Python, SQL, C#, HTML/CSS, JS (SoloLearn)  
+- **(2024):** IoT, Cybersecurity, Linux (Cisco NetAcad)  
+- **(2025):** Data Viz, AI-Driven Social Media Marketing
 
 [![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)  
 [![Cisco](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://www.credly.com/users/wan-asyraff/)  
-![Other-Certs](https://img.shields.io/badge/Other-Certs-lightgrey)  
+[[!Other-Certs](https://img.shields.io/badge/Other-Certs-lightgrey)](https://drive.google.com/drive/folders/1g6N4qa2Yu3sTr70T9niWT5OFMUqkeZh5?usp=sharing)  
 
-## Projects
+---
 
-- Upcoming FYP  
-- Projek Bapak Kut  
-- Game Jam  
-- Popular Techstack App  
+## 🎮 Projects  
 
-## Currently Learning
-- Flutter, Laravel
-- Wishing to commit to learning other languages such as Chinese and Bahasa Iban
-- More into robotics
-- Basic electronics
+- 🔜 Final Year Project: Educational RPG + Quiz Mechanics  
+- 🧪 "Projek Bapak Kut" – [Placeholder for experimental project]  
+- 🎯 Game Jam Entry – [To be linked!]  
+- 🧰 Techstack Playground App – [To be documented]
 
-## Contact
+---
 
-[![Gmail](https://img.shields.io/badge/Gmail-wantanasyraff@gmail.com-blue)](mailto:wantanasyraff@gmail.com)
+## 📚 Currently Learning  
+
+- 📱 Flutter & Laravel  
+- 🤖 Basic Robotics & Electronics  
+- 🌐 Languages: Chinese & Bahasa Iban  
+
+---
+
+## 📬 Contact  
+
+[![Gmail](https://img.shields.io/badge/Gmail-wantanasyraff@gmail.com-blue)](mailto:wantanasyraff@gmail.com)  
+🌐 [Portfolio Site – Coming Soon!](https://github.com/WantanAsyraff)
+
+---
+
