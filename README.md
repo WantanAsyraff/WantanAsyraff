@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**WantanAsyraff/WantanAsyraff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📜 SoloLearn Certification List
 
-Here are some ideas to get you started:
+Below are the SoloLearn certifications I have earned, covering foundational programming languages, web technologies, and general tech literacy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| No. | Certificate Title                     | Platform   | Type         |
+|-----|----------------------------------------|------------|--------------|
+| 1   | Introduction to C                      | SoloLearn  | Programming  |
+| 2   | Introduction to C++                    | SoloLearn  | Programming  |
+| 3   | Introduction to C#                     | SoloLearn  | Programming  |
+| 4   | Introduction to CSS                    | SoloLearn  | Web Dev      |
+| 5   | Introduction to HTML                   | SoloLearn  | Web Dev      |
+| 6   | Introduction to Java                   | SoloLearn  | Programming  |
+| 7   | Introduction to JavaScript             | SoloLearn  | Web Dev      |
+| 8   | Introduction to Python                 | SoloLearn  | Programming  |
+| 9   | Python Intermediate                    | SoloLearn  | Programming  |
+| 10  | Introduction to SQL                    | SoloLearn  | Databases    |
+| 11  | Tech for Everyone                      | SoloLearn  | General Tech |
+
+🔗 [View My SoloLearn Profile](https://www.sololearn.com/en/profile/30049508)
