@@ -5,7 +5,12 @@
 ## Skills
 
 ## Certifications
-![SoloLearn](https://img.shields.io/badge/SoloLearn-Certified-orange)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Profile-green)](https://www.sololearn.com/en/profile/30049508)
+[![Cisco]()]
+### Self Learning Journey
+2023 - Introductory in C, C++, C#, CSS, HTML, Java, Javascript, Python, SQL
+2024
+2025
 
 ## Projects
 
