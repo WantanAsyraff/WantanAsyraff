@@ -40,7 +40,14 @@ I am eager to apply my skills to real-world problems and collaborate on impactfu
 
 ## Skills
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=20 height=20/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cpp/cpp-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
+
 ### Technical Skills  
 - **Languages:** Fluent in English, Malay and native in Sarawakian Malay
 - **Python (Intermediate):** Applied in data visualization projects and hackathons; completed SoloLearn courses focusing on coding and data manipulation  
