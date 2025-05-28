@@ -1,7 +1,6 @@
-# Hello! I’m Wan Asyraff — Passionate Coder & Lifelong Learner 💡
+# Hello! I’m Wan Asyraff — Passionate Coder & Lifelong Learner 💡 
 
-[![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff)](https://github.com/anuraghazra/github-readme-stats)
-
+![Wantan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical)
 ## About
 
 I am a dedicated student at Politeknik Mukah passionate about programming, data science, and technology innovation. Through hands-on projects, hackathons, and competitions, I have honed my skills in languages like Python, C++, and JavaScript, and gained foundational knowledge in cybersecurity and IoT.  
