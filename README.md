@@ -12,7 +12,7 @@
 
 ## 🌟 About Me  
 
-Hi there! I'm **Wantan**, a 19-year-old technologist-in-the-making from Malaysia, currently deep in the fourth semester of my Diploma in IT (Software Development track). I'm the kind of person who treats curiosity like a lifestyle—whether I'm tweaking a Linux distro until it's perfectly riced, exploring how embedded systems work, or imagining a robotic catgirl companion with GPS and anime-level charm. Yes. Seriously. 😼🤖
+Hi there! I'm **Wantan**, a 20-year-old technologist-in-the-making from Malaysia, currently deep in the fourth semester of my Diploma in IT (Software Development track). I'm the kind of person who treats curiosity like a lifestyle—whether I'm tweaking a Linux distro until it's perfectly riced, exploring how embedded systems work, or imagining a robotic companion with GPS. Yes. Seriously. 😼🤖
 
 I’m passionate about all things tech—from low-level OS fundamentals to high-level software design. If it blinks, beeps, or compiles, I probably want to break it, fix it, mod it, or make it prettier. I’m also obsessed with **FOSS, cybersecurity, electronics**, and currently planning to build out my **dream homelab** (coming soon to a server rack near you!).
 
