@@ -114,7 +114,7 @@ I live at the intersection of code and creativity. You’ll find me scribbling m
 ## 🎮 Projects  
 
 - 🔜 Final Year Project: Educational RPG + Quiz Mechanics  
-- 🧪 "Projek Bapak Kut" – [Placeholder for experimental project]  
+- 🧪 Bumi Borneo Printing Service Website
 - 🎯 Game Jam Entry – [To be linked!]  
 - 🧰 Techstack Playground App – [To be documented]
 
