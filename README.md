@@ -39,6 +39,9 @@ Hello — I'm **Wantan** from Malaysia. I build playful, practical software: edu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" title="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+          
 </p>
 
 **Focus areas:** Game development (Godot), educational UX, CSV-based content pipelines, analytics & data viz, embedded systems basics, cybersecurity fundamentals.
@@ -64,17 +67,15 @@ Hello — I'm **Wantan** from Malaysia. I build playful, practical software: edu
 [![EduRPG Demo GIF](https://media.giphy.com/media/3o7TKP0Iu9gUEUoD8w/giphy.gif)](https://github.com/wantanasyraff/edu-rpg)
 **Short pitch:** Semi open-world educational RPG where lecturers upload weekly quizzes via CSV, players explore campus, complete minigames aligned with Bloom's Taxonomy, and earn rewards. Includes PDF performance exports for instructors.
 
-### Bumi Borneo Printing Service — Website
+### Bumi Borneo Printing Service — Front-End Website
 
 [![Bumi GIF Placeholder](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)](https://github.com/wantanasyraff/bumi-borneo)
-**Stack:** HTML/CSS/JS — simple, responsive, and production-ready for small-business use.
+**Stack:** HTML/CSS/JS/VUE.JS — simple, responsive, and production-ready for small-business use.
 
 ### Techstack Playground App
 
 [![Playground GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)](https://github.com/wantanasyraff/techstack-playground)
 **Purpose:** Small experiments and micro-projects used for learning new frameworks and techniques.
-
-> Want me to generate a short 8–12s gameplay GIF for EduRPG using your footage or in-editor screen capture? I can also help craft a short demo video script for recruiters.
 
 ---
 
@@ -92,7 +93,7 @@ Hello — I'm **Wantan** from Malaysia. I build playful, practical software: edu
 
 ## 📈 GitHub Activity
 
-* [Languages & Stats](https://github.com/anuraghazra/github-readme-stats)
+* [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff)](https://github.com/wantanasyraff/github-readme-stats)
 * Frequent contributions to personal projects and prototypes.
 
 ---
