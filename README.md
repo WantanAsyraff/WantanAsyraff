@@ -15,7 +15,7 @@
 * 🎓 Diploma in IT — Software & Development track (final semester)
 * 🔭 Currently building: **EduRPG (Final Year Project)** — an educational RPG built with **Godot**, CSV-based quiz importer for lecturers, and analytics-driven student reports.
 * 💼 Open to internships / junior roles — approachable, fast learner, and collaborative.
-* 🤖 Side-hobbies: robotics, homelab, Linux ricing, IoT, and catgirl-robot ideas (yes, really 😼)
+* 🤖 Side-hobbies: worldbuilding, learning linux, watching video essays, coding and keeping up with the newest tech trends.
 
 ---
 
