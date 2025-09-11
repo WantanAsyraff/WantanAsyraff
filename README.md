@@ -141,10 +141,4 @@ I love collaborations! If you're a teacher wanting to adapt the EduRPG for your 
 
 ---
 
-## 📜 License
-
-This profile README is free to reuse. Individual projects should include their own `LICENSE` files (MIT recommended for educational projects).
-
----
-
 *Made with ❤️ and late-night code sessions.*
