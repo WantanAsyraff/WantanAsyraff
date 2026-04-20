@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Wan%20Asyraff&fontSize=60&fontColor=52B6F7&fontAlignY=38&desc=Software%20Engineer%20%7C%20Sarawak%2C%20Malaysia&descColor=a8b2d8&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Wantan%20Asyraff&fontSize=60&fontColor=52B6F7&fontAlignY=38&desc=Software%20Engineer%20%7C%20Sarawak%2C%20Malaysia&descColor=a8b2d8&descAlignY=58&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=22&duration=2500&pause=1500&color=52B6F7&center=true&vCenter=true&width=700&lines=Building+impactful+tech+for+Sarawak+🌿;Python+%7C+Vue.js+%7C+Geospatial+%7C+AI+Pipelines;Game+Dev+%7C+Open+Source+%7C+Indie+Studio+Founder;Graduating+September+2026+—+Open+to+Opportunities)](https://git.io/typing-svg)
 
