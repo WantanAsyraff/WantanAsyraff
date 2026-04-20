@@ -20,13 +20,13 @@
 
 ```python
 wan = {
-    "name"       : "Wan Faqhrul Asyraff bin Abdullah",
-    "location"   : "Kuching, Sarawak 🇲🇾",
+    "name"       : "Wantan Sirab",
+    "location"   : "Sarawak 🇲🇾",
     "education"  : "Diploma IT (Software Dev) — Politeknik Mukah | CGPA 3.91 | Dean's List ×5",
     "currently"  : "Internship @ SAINS — IoT Solutions & Services Division",
     "seeking"    : "Full-time Software Engineer roles | Graduating Sept 2026",
-    "studio"     : "Co-founder @ KamekStudio 🎮 — Malaysian indie game dev",
-    "philosophy" : "Local in spirit, global in quality.",
+    "side hustle": "Malaysian indie game dev",
+    "philosophy" : "Fly to the sky but stay grounded.",
 }
 ```
 
