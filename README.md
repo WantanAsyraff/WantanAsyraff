@@ -1,144 +1,179 @@
-# Wan Asyraff — Portfolio & Projects 🚀✨
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter\&duration=2000\&pause=2000\&color=52B6F7\&background=FFFFFF00\&width=650\&lines=Passionate+Coder+%26+Lifelong+Learner;Welcome+To+My+Profile!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Wan%20Asyraff&fontSize=60&fontColor=52B6F7&fontAlignY=38&desc=Software%20Engineer%20%7C%20Sarawak%2C%20Malaysia&descColor=a8b2d8&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/wantanasyraff"><img alt="profile views" src="https://komarev.com/ghpvc/?username=wantanasyraff"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/wantanasyraff"><img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=radical&card_height=300"/></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=600&size=22&duration=2500&pause=1500&color=52B6F7&center=true&vCenter=true&width=700&lines=Building+impactful+tech+for+Sarawak+🌿;Python+%7C+Vue.js+%7C+Geospatial+%7C+AI+Pipelines;Game+Dev+%7C+Open+Source+%7C+Indie+Studio+Founder;Graduating+September+2026+—+Open+to+Opportunities)](https://git.io/typing-svg)
 
----
+<br/>
 
-## 🌟 Quick Snapshot
+<a href="https://www.linkedin.com/in/wan-asyraff/"><img src="https://img.shields.io/badge/LinkedIn-wan--asyraff-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+&nbsp;
+<a href="mailto:wantanasyraff@gmail.com"><img src="https://img.shields.io/badge/Email-wantanasyraff@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+&nbsp;
+<a href="https://github.com/wantanasyraff"><img src="https://komarev.com/ghpvc/?username=wantanasyraff&style=for-the-badge&color=52B6F7&label=PROFILE+VIEWS"/></a>
 
-* 🎓 Diploma in IT — Software & Development track (final semester)
-* 🔭 Currently building: **EduRPG (Final Year Project)** — an educational RPG built with **Godot**, CSV-based quiz importer for lecturers, and analytics-driven student reports.
-* 💼 Open to internships / junior roles — approachable, fast learner, and collaborative.
-* 🤖 Side-hobbies: worldbuilding, learning linux, watching video essays, coding and keeping up with the newest tech trends.
+</div>
 
 ---
 
-## 🔭 About Me
+## `whoami`
 
-Hello — I'm **Wantan** from Malaysia. I build playful, practical software: educational games, web apps, and small electronics prototypes. I balance creative design with pragmatic engineering and enjoy projects that have measurable impact in learning.
+```python
+wan = {
+    "name"       : "Wan Faqhrul Asyraff bin Abdullah",
+    "location"   : "Kuching, Sarawak 🇲🇾",
+    "education"  : "Diploma IT (Software Dev) — Politeknik Mukah | CGPA 3.91 | Dean's List ×5",
+    "currently"  : "Internship @ SAINS — IoT Solutions & Services Division",
+    "seeking"    : "Full-time Software Engineer roles | Graduating Sept 2026",
+    "studio"     : "Co-founder @ KamekStudio 🎮 — Malaysian indie game dev",
+    "philosophy" : "Local in spirit, global in quality.",
+}
+```
 
-> “Two there are who are never satisfied—the lover of the world and the lover of knowledge.” — *Rumi*
-
----
-
-## 🧰 Tech Stack & Skills
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="36" height="36" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="36" height="36" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="36" height="36" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" title="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="36" height="36" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" height="36" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" height="36" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="36" height="36" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="36" height="36" title="ArchLinux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="36" height="36" title="Vuejs"/>
-          
-</p>
-
-**Focus areas:** Game development (Godot), educational UX, CSV-based content pipelines, analytics & data viz, embedded systems basics, cybersecurity fundamentals.
+> *"Two there are who are never satisfied — the lover of the world and the lover of knowledge."* — Rumi
 
 ---
 
-## 🏆 Highlights / Experience
+## 🔧 Tech Stack
 
-* **Head Assistant, Electronics Committee** — INQBIZ CLUB, Politeknik Mukah (2024)
-* **Leadership & Teamwork Camp** — SRC, Politeknik Mukah (2025)
-* **INOFAST 2023** — Best Presentation (🥇), 2nd Best Media Presentation (🥈)
-* **Hackathons:** Data Hackathon POLYCC & Melaka Intelligence Centre (2024)
-* **Public Speaking:** General Studies Department, Politeknik Mukah (2024)
+<div align="center">
 
----
+**Languages**
 
-## 🎮 Featured Projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-> Click the GIFs to open project repos / demos. Replace GIF placeholders below with recorded gameplay or short demos (GIPHY / Imgur / GitHub-hosted GIFs work great).
+**Web & Frameworks**
 
-### EduRPG — Final Year Project (Godot)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![EduRPG Demo GIF](https://media.giphy.com/media/3o7TKP0Iu9gUEUoD8w/giphy.gif)](https://github.com/wantanasyraff/edu-rpg)
-**Short pitch:** Semi open-world educational RPG where lecturers upload weekly quizzes via CSV, players explore campus, complete minigames aligned with Bloom's Taxonomy, and earn rewards. Includes PDF performance exports for instructors.
+**Data & Geospatial**
 
-### Bumi Borneo Printing Service — Front-End Website
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
+![Rasterio](https://img.shields.io/badge/Rasterio-1a7a3d?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-[![Bumi GIF Placeholder](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)](https://github.com/wantanasyraff/bumi-borneo)
-**Stack:** HTML/CSS/JS/VUE.JS — simple, responsive, and production-ready for small-business use.
+**Tools & Environment**
 
-### Techstack Playground App
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
-[![Playground GIF](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)](https://github.com/wantanasyraff/techstack-playground)
-**Purpose:** Small experiments and micro-projects used for learning new frameworks and techniques.
-
----
-
-## 📚 Education & Certifications
-
-* Diploma in IT (Software & Development) — Politeknik Mukah (final semester)
-* SoloLearn courses: Python, C, C++, Java, SQL, C#, HTML/CSS/JS
-* Cisco NetAcad: IoT, Cybersecurity, Linux
-* Workshops: 3D Design & Printing, Data Annotation, Public Speaking
-
-[![SoloLearn](https://img.shields.io/badge/SoloLearn-View_Certifications-blue)](https://www.sololearn.com/en/profile/30049508)
-[![Cisco](https://img.shields.io/badge/Cisco-View_Accreditation-blue)](https://www.credly.com/users/wan-asyraff/)
+</div>
 
 ---
 
-## 📈 GitHub Activity
+## 🚀 Featured Work
 
-* [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wantanasyraff)](https://github.com/wantanasyraff/github-readme-stats)
-* Frequent contributions to personal projects and prototypes.
+### 🏢 Sarawak Information Systems — IoT Division *(Jan 2026 – Present)*
 
----
+> Real-world data engineering for Sarawak's IoT infrastructure.
 
-## 💼 For Employers (TL;DR)
-
-* **Looking for:** Internship / Junior dev roles (game dev, tools, web, or embedded).
-* **Available:** Yes — open to paid internships and entry roles.
-* **What I bring:** Fast learning, creativity, strong hands-on problem solving, and a portfolio-focused mindset.
-
-**Quick contact:** `wantanasyraff@gmail.com`
+| Project | What I Built |
+|---|---|
+| **VLM Data Extraction Pipeline** | Flask + Gemini Flash pipeline processing 1,800+ water meter photos — automated GPS + meter ID extraction, ~70% reduction in manual entry |
+| **Geospatial Coverage Mapping** | PDF-to-GeoTIFF pipeline (OpenCV + Rasterio + OSM tile math) georeferencing NB-IoT maps across 5 Sarawak districts → QGIS-ready GeoPackage output |
+| **IoT Infrastructure Visualizer** | KML styling script with AABBGGRR hex manipulation for complex layer transparency on Sarawak GIS tiles |
+| **Data Validation Engine** | Confidence Scoring system (1–5) auto-cross-referencing AI-extracted records against master datasets — ~70% less manual verification |
 
 ---
 
-## 🤝 Contributing & Collaboration
+### 🎮 Personal & Studio Projects
 
-I love collaborations! If you're a teacher wanting to adapt the EduRPG for your course or a dev who wants to help polish features, here's how to contribute:
+<table>
+<tr>
+<td width="50%">
 
-1. Fork the repo
-2. Create a branch `feature/your-feature`
-3. Open a PR with a clear description and screenshots/GIFs
+**[Hurufle](https://github.com/wantanasyraff)** — *March 2026*
 
-**Code style:** Keep things simple and well-documented. Add tests where practical. Include CSV schema examples in `/docs` for quiz imports.
+Malaysian Wordle clone built in Vue.js + JavaScript. Designed around the Bahasa Malaysia lexicon with social sharing API integration for organic growth.
+
+`Vue.js` `JavaScript` `Social APIs`
+
+</td>
+<td width="50%">
+
+**[Project E.L.I.T.E.](https://github.com/wantanasyraff)** — *Dec 2025*
+
+🏆 Top 3 Final Year Project, Politeknik Mukah. Gamified learning platform in Godot — 10+ interactive modules with quiz loader, in-game currency, and player progression.
+
+`Godot 4` `GDScript` `Gamification`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Bumi Borneo Website](https://github.com/wantanasyraff)** — *Oct 2025*
+
+Responsive product catalogue and business showcase for a local Sarawakian SME. Live and deployed.
+
+`Vue.js` `HTML/CSS` `JavaScript`
+
+</td>
+<td width="50%">
+
+**Magis Penglipur Lara RPG** — *In Development*
+
+Malaysian cultural RPG set in a fictional Sarawakian university. Data-driven architecture, folktale-based bosses, rojak dialect voicing. Built under KamekStudio.
+
+`Godot 4` `GDScript` `KamekStudio`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Useful Links
+## 🏆 Achievements
 
-* Portfolio / Resume: **(coming soon)** — replace with hosted resume link
-* Projects: `https://github.com/wantanasyraff?tab=repositories`
-* Contact: `mailto:wantanasyraff@gmail.com`
-
----
-
-## 📬 Get in touch
-
-<details>
-<summary>Contact & Hiring Info</summary>
-
-* **Email:** `wantanasyraff@gmail.com` (fastest)
-* **GitHub:** `https://github.com/wantanasyraff`
-* **Portfolio:** Coming soon — will update this README when live.
-
-</details>
+| Year | Achievement |
+|---|---|
+| 2025 | 🥇 Academic Excellence Award — Software & Development Track, Politeknik Mukah |
+| 2025 | 🌏 WorldSkills Sarawak — Web Technology, **Top 10** |
+| 2025 | 🎓 3rd Best Final Year Project — Software Track, Politeknik Mukah |
+| 2024 | 💻 DataHackathon POLYCC & Melaka Intelligence Centre |
+| 2023 | 🥈 INOFAST — 2nd Place, Media & Presentation Category |
 
 ---
 
-*Made with ❤️ and late-night code sessions.*
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=wantanasyraff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52B6F7&icon_color=52B6F7&text_color=a8b2d8" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wantanasyraff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=52B6F7&text_color=a8b2d8" height="165"/>
+
+</div>
+
+---
+
+## 📜 Certifications
+
+[![Cisco](https://img.shields.io/badge/Cisco_NetAcad-IoT_%7C_Cybersecurity_%7C_Linux-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/users/wan-asyraff/)
+&nbsp;
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Fundamentals-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/wan-asyraff/)
+&nbsp;
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-Python_%7C_Java_%7C_SQL_%7C_more-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/30049508)
+
+---
+
+<div align="center">
+
+*Currently open to full-time Software Engineer roles in Sarawak — graduating September 2026.*
+
+**`wantanasyraff@gmail.com`** · **[LinkedIn](https://www.linkedin.com/in/wan-asyraff/)** · **[GitHub](https://github.com/wantanasyraff)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+
+</div>
